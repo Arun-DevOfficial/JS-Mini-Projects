@@ -72,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Created by [Arun-Dev@official](https://github.com/yourusername)
+Created by [Arun-DevOfficial](https://github.com/Arun-DevOfficial)
 
 ---
 
