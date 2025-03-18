@@ -10,16 +10,8 @@ This repository contains a variety of small JavaScript projects that demonstrate
 
 Here's what you'll find in this repository:
 
-1. **Image Scroller** - A simple image carousel/slider with previous and next navigation
-2. **Todo List** - A basic to-do application with add, delete, and complete functionality
-3. **Weather Widget** - Display weather information based on user location
-4. **Calculator** - A functional calculator with basic arithmetic operations
-5. **Digital Clock** - Real-time clock display with formatting options
-6. **Form Validator** - Client-side form validation with error messages
-7. **Random Quote Generator** - Display random quotes with a click
-8. **Memory Game** - A card-matching memory game with score tracking
-9. **Password Generator** - Create secure random passwords with customizable options
-10. **Countdown Timer** - Event countdown timer with visual feedback
+1. **Image Scroller** - A simple image carousel/slider with previous and next navigation.
+2. **Uploading projects**..
 
 ## 💻 Technologies
 
@@ -58,16 +50,8 @@ To run any project:
 
 The projects are roughly arranged from simplest to most complex. If you're just starting out with JavaScript, consider following this order:
 
-1. Digital Clock
-2. Image Scroller
-3. Random Quote Generator
-4. Calculator
-5. Form Validator
-6. Todo List
-7. Password Generator
-8. Countdown Timer
-9. Weather Widget
-10. Memory Game
+1. Image Scroller
+2. Uploading...
 
 ## 🤝 Contributing
 
@@ -82,22 +66,13 @@ Contributions are welcome! If you'd like to add your own mini-project or improve
 
 Please ensure your code is well-commented and includes a brief README explaining what your project does.
 
-## 📚 Resources
-
-For those looking to expand their knowledge, here are some helpful resources:
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
-- [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/yourusername)
+Created by [Arun-Dev@official](https://github.com/yourusername)
 
 ---
 
